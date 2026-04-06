@@ -122,12 +122,4 @@ This dashboard enables:
 
 ---
 
-##  Tools & Technologies
-
-* Power BI / Excel (Dashboarding & Visualization)
-* Data Cleaning & Transformation
-* Data Analysis & Storytelling
-
----
-
 
